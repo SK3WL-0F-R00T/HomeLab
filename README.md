@@ -5,7 +5,7 @@
 **Wazuh** - SIEM / SOAR Solution \
 **Cloudflared** - Tunnel / CASB \
 **Nessus** - Vulnerability Scanner \
-**Transmission** - Seedbox / Torrenting \ 
+**Transmission** - Seedbox / Torrenting \
 **Jellyfin** - Media Server \
 **UptimeKuma** - Systems Monitoring \
 **IRC** - Chat Server \
