@@ -1,7 +1,7 @@
 # HomeLab
 
 ## App Stack 
-### Self Hosted Services \
+### Self Hosted Services
 **Wazuh** - SIEM / SOAR Solution \
 **Cloudflared** - Tunnel / CASB \
 **Nessus** - Vulnerability Scanner \
@@ -10,7 +10,7 @@
 **UptimeKuma** - Systems Monitoring \
 **IRC** - Chat Server \
 **Proxmox** - HyperVisor \
-**Synology DSM** - File Server w/ S3 Replication \
+**Synology DSM** - File Server w/ S3 Replication
 
 ### SaaS 
 **GitHub** - Community Code Development \
