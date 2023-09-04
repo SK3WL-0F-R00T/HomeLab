@@ -1,4 +1,4 @@
-# HomeLab
+# HomeLab - MaverickMidori
 
 ## App Stack 
 ### Self Hosted Services
