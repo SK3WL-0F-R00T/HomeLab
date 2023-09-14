@@ -7,6 +7,6 @@ _Hosted on AWS Lightsail_
 
 ## Historical Relays
 EC2 T4g.micro Instances \
-**[MaverickMidoriAU01]** - D39F5C32AE21C9DFAEEB5AA3347A4F2827552D81)  \
+**[MaverickMidoriAU01]** - D39F5C32AE21C9DFAEEB5AA3347A4F2827552D81) \
 **[MaverickMidoriAU02]** - 78CBF16BCEC1C60919A57E48CAD0240314095448) \
 _Reason for Deprecation: High Data Transfer Charges (Costing $5 per relay per day USD)_
